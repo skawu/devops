@@ -74,7 +74,7 @@ dependencies:
     alias: redis-lora
     condition: adapter_lora.enabled
   - name: influxdb
-    version: "1.1.9"
+    version: "5.4.16"
     repository: "@bitnami"
     condition: influxdb.enabled
   - name: mongodb
