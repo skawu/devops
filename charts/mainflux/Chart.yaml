@@ -88,7 +88,7 @@ dependencies:
     alias: postgresqlnotifiersmtp
     condition: postgresqlnotifiersmtp.enabled
   - name: loki-stack
-    version: "2.5.0"
+    version: "2.9.9"
     repository: "@grafana"
     condition: loki-stack.enabled
   - name: keto
