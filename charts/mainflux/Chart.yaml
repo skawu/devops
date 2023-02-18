@@ -19,8 +19,8 @@ maintainers:
 
 dependencies:
   - name: nats
-    version: "4.3.7"
-    repository: "@stable"
+    version: "7.5.10"
+    repository: "@bitnami"
   - name: postgresql
     version: "12.2.1"
     repository: "@bitnami"
